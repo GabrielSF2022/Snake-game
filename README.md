@@ -6,7 +6,9 @@
 ![Document - Google Chrome 2022-05-05 15-29-26](https://user-images.githubusercontent.com/97768716/166994997-aa78212d-0022-4195-8aa2-82e175788fe1.gif)
 
   
-
+<h2 align="center">
+  <a href="https://gabrielsf2022.github.io/SNAKE-GAME/" target="_blank"> Veja o site </a>
+</h2>
 
 <h2 align="center"> FERRAMENTAS USADAS </h2>
  
