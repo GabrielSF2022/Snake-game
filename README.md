@@ -7,7 +7,7 @@
 
   
 <h2 align="center">
-  <a href="https://gabrielsf2022.github.io/SNAKE-GAME/" target="_blank"> Veja o site </a>
+  <a href="https://snake-game-omega-one.vercel.app/" target="_blank"> Veja o site </a>
 </h2>
 
 <h2 align="center"> FERRAMENTAS USADAS </h2>
